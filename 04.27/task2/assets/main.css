@@ -1,0 +1,14 @@
+.head,.text{
+font-family: sans-serif;
+color: rgb(140, 134, 134);
+text-align: center  ;
+}
+div img{
+    width: 1000px;
+    padding-left: 250px;
+    height: 400px;
+}
+.txt{
+    width: 1000px;
+    padding-left: 250px;
+}
